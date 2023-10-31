@@ -205,18 +205,18 @@
 // * xref:solutionmngr:user:functions.adoc[]
 // * xref:solutionmngr::index.adoc[Больше...]
 // ****
-+
-[#archivemgmt]
-.Модуль "{am}"
-****
-Комплект инструментов, предназначенный для выполнения административных задач в организациях, эксплуатирующих систему {dv}.
-
-* xref:archivemgmt::requirements.adoc[]
-* xref:archivemgmt:admin:install.adoc[]
-* xref:archivemgmt:admin:update-module.adoc[]
-* xref:archivemgmt:admin:administration.adoc[]
-* xref:archivemgmt::index.adoc[Больше...]
-****
+// +
+// [#archivemgmt]
+// .Модуль "{am}"
+// ****
+// Комплект инструментов, предназначенный для выполнения административных задач в организациях, эксплуатирующих систему {dv}.
+//
+// * xref:archivemgmt::requirements.adoc[]
+// * xref:archivemgmt:admin:install.adoc[]
+// * xref:archivemgmt:admin:update-module.adoc[]
+// * xref:archivemgmt:admin:administration.adoc[]
+// * xref:archivemgmt::index.adoc[Больше...]
+// ****
 
 Дополнительная документация::
 +
@@ -246,17 +246,17 @@
 // * xref:schemas::Workflow.adoc[]
 //
 // ****
-+
-[#resourcekit]
-.Комплект утилит {rk}
-****
-Комплект инструментов, предназначенный для выполнения административных задач в организациях, эксплуатирующих систему {dv}.
-
-* xref:resource-kit:admin:install.adoc[]
-* xref:resource-kit:cardmanager:util.adoc[]
-* xref:resource-kit:dvexplorer:util.adoc[]
-* xref:resource-kit::index.adoc[Больше...]
-****
+// +
+// [#resourcekit]
+// .Комплект утилит {rk}
+// ****
+// Комплект инструментов, предназначенный для выполнения административных задач в организациях, эксплуатирующих систему {dv}.
+//
+// * xref:resource-kit:admin:install.adoc[]
+// * xref:resource-kit:cardmanager:util.adoc[]
+// * xref:resource-kit:dvexplorer:util.adoc[]
+// * xref:resource-kit::index.adoc[Больше...]
+// ****
 +
 [#desdirs]
 .Конструкторы и справочники
