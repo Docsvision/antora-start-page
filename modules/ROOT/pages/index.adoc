@@ -160,29 +160,29 @@
 * xref:mgmtconsole:admin:provide-access.adoc[]
 * xref:mgmtconsole::index.adoc[Больше...]
 ****
-+
-[#takeoffice]
-.Модуль "{to}"
-****
-Приложение _{to}_ добавляет в систему {dv} возможность работы с (устаревшими) карточками "{dv} 4.5" и предназначено для автоматизации наиболее распространенных задач документооборота.
-
-* xref:takeoffice::requirements.adoc[]
-* xref:takeoffice:admin:install-server.adoc[]
-* xref:takeoffice:admin:functions.adoc[]
-* xref:takeoffice::index.adoc[Больше...]
-****
-+
-[#workflow]
-.Модуль "{wf}"
-****
-Модуль "{wf}" системы {dv} обеспечивает управление бизнес-процессами и предоставляет возможности настройки и автоматизации типичных для документооборота организации бизнес-процессов.
-
-* xref:workflow::requirements.adoc[]
-* xref:workflow::license.adoc[]
-* xref:workflow:admin:install.adoc[]
-* xref:workflow:admin:update-module.adoc[]
-* xref:workflow::index.adoc[Больше...]
-****
+// +
+// [#takeoffice]
+// .Модуль "{to}"
+// ****
+// Приложение _{to}_ добавляет в систему {dv} возможность работы с (устаревшими) карточками "{dv} 4.5" и предназначено для автоматизации наиболее распространенных задач документооборота.
+//
+// * xref:takeoffice::requirements.adoc[]
+// * xref:takeoffice:admin:install-server.adoc[]
+// * xref:takeoffice:admin:functions.adoc[]
+// * xref:takeoffice::index.adoc[Больше...]
+// ****
+// +
+// [#workflow]
+// .Модуль "{wf}"
+// ****
+// Модуль "{wf}" системы {dv} обеспечивает управление бизнес-процессами и предоставляет возможности настройки и автоматизации типичных для документооборота организации бизнес-процессов.
+//
+// * xref:workflow::requirements.adoc[]
+// * xref:workflow::license.adoc[]
+// * xref:workflow:admin:install.adoc[]
+// * xref:workflow:admin:update-module.adoc[]
+// * xref:workflow::index.adoc[Больше...]
+// ****
 +
 [#edimodule]
 .{em}
