@@ -77,7 +77,7 @@
 
 * xref:platform::requirements-license.adoc[]
 * xref:platform:admin:install-platform.adoc[]
-* xref:platform:console:microsoft-postgre.adoc[]
+* xref:platform:console:appendix/microsoft-postgre.adoc[]
 * xref:platform::index.adoc[Больше...]
 ****
 +
