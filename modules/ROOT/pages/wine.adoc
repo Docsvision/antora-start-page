@@ -4,7 +4,16 @@
 
 .Требования к системе:
 * Базовый уровень защищенности (Орёл).
-* Выключена блокировка трассировки "ptrace". Состояние можно проверить командой `sudo astra-ptrace-lock status`, выключить `sudo astra-ptrace-lock disable`.
++
+[source,bash]
+----
+sudo astra-modeswitch get <.>
+sudo astra-modeswitch set 0 <.>
+----
+<.> Получить текущий уровень защищённости.
+<.> Установить базовый уровень.
++
+* Выключена блокировка трассировки "ptrace". Состояние можно проверить командой `sudo astra-ptrace-lock status`, выключить `sudo astra-ptrace-lock disable`, см. подробнее в https://wiki.astralinux.ru/pages/viewpage.action?pageId=109020865[документации Astra Linux].
 
 . Распакуйте архив на машине с Astra Linux {l-1-1} и перейти в каталог с файлами:
 +
